@@ -1,12 +1,10 @@
 # Vassourinha - The Ultimate Cleanup Script
 
-![Vassourinha ASCII Art](https://i.imgur.com/sC3oA2L.png)
-
 **Vassourinha** is a comprehensive and user-friendly shell script designed to help you clean up and reclaim disk space on Debian-based Linux systems (like Ubuntu, Mint, etc.). It provides a clear, interactive, and bilingual (English/Portuguese) interface to perform common and advanced cleanup tasks safely.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flags/United%20Kingdom.png" alt="United Kingdom" width="25" height="25" /> English
+## English
 
 ### Features
 
@@ -62,7 +60,7 @@ These options require your careful attention and confirmation.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flags/Brazil.png" alt="Brazil" width="25" height="25" /> Português
+## Português
 
 ### Funcionalidades
 
